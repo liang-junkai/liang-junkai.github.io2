@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am Xin Zhang, a first-year Ph.D. student in Peking University advised by Prof. Qingni Shen. Previously, I got my bachelor degree in Hunan University in 2022 and cooperated with Prof. Jiliang Zhang (2019-2022).
+I am Xin Zhang, a first-year Ph.D. student in Peking University advised by Prof. Qingni Shen. Previously, I got my bachelor degree in Hunan University in 2022 and advised by Prof. Jiliang Zhang (2020-2022).
 
 My research interests are in the areas of system security and side channel attacks.
 
@@ -52,11 +52,9 @@ My research interests are in the areas of system security and side channel attac
 
 
 # 📖 Educations
-- *2022.08 - present*, Phd Student, Software Engineering(Cyber Security), Peking University. 
+- *2022.08 - present*, PhD Student, Software Engineering, Peking University. 
 - *2018.09 - 2022.06*, Undergraduate, Information Security, Hunan University. 
 
-# 💬 Invited Talks
-- *2022.03*, Security System Experiment--Teaching Assistant(Cooperate with Prof. Yang Xu), 2022 Spring. 
+# 💬 Teaching
+- *CS05084*, System Security (Laboratory Course)--Teaching Assistant(Cooperate with Prof. Yang Xu), 2022 Spring. 
 
-# 💻 Internships
-<!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
