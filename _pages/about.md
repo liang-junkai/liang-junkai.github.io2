@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am Xin Zhang, a first-year Ph.D. student in Peking University advised by Prof. Qingni Shen. Previously, I got my bachelor degree in Hunan University in 2022, during which I worked closely with Prof. Jiliang Zhang (2019-2022).
+I am Xin Zhang, a first-year Ph.D. student at Peking University advised by Prof. Qingni Shen. Previously, I got my bachelor degree in Hunan University in 2022, during which I worked closely with Prof. Jiliang Zhang (2019-2022).
 
 My research interests are in the areas of system security and side channel attacks.
 
