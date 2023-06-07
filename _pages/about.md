@@ -47,7 +47,7 @@ My research interests are in the areas of system security and side channel attac
 # 🎖 Honors and Awards
 - *2022* Runner-up（2/3304）in ECS CloudBuild Developer Competition. 
 - *2022*  College Graduate Excellence Award, Hunan Province, China.
-- *2020*  Thrid Prize For National College Student Information Security Contest.
+- *2020*  Thrid Prize For National College Student Information Security Contest (CTF track).
 - *2019*  National Scholarship, China.
 
 
