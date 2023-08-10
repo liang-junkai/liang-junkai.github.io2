@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am Junkai Liang, a first-year Ph.D. student at Peking University advised by Prof. Zhonghai Wu. Previously, I got my bachelor degree in Nanjing University in 2022, during which I worked closely with Prof. Yuan Zhang (2019-2022).
+I am Junkai Liang, a first-year Ph.D. student at Peking University advised by Prof. Zhonghai Wu. Previously, I got my bachelor degree in Nanjing University in 2022, during which I worked closely with Prof. Yuan Zhang (2020-2022).
 
 My research interests are in the areas of the confidentiality of blockchain and cryptography technologies.
 
@@ -58,7 +58,7 @@ My research interests are in the areas of the confidentiality of blockchain and 
 - <!-- *CS05084*, System Security (Laboratory Course)--Teaching Assistant(Cooperate with Prof. Yang Xu), 2022 Spring. 
 - Reviewer: ICISS 2022, ECAI 2023 -->
 
- <a href="https://clustrmaps.com/site/1bmtt"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=roOPIYhOSI6clMuqwkzlXBT7BKee-NL2r4v8oS1ini8&cl=ffffff" /></a>
+<!-- <a href="https://clustrmaps.com/site/1bmtt"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=roOPIYhOSI6clMuqwkzlXBT7BKee-NL2r4v8oS1ini8&cl=ffffff" />--></a>
 <br>
 
 <!-- hitwebcounter Code START -->
