@@ -29,38 +29,7 @@ My research interests are in the areas of the confidentiality of blockchain and 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-
-<div class='paper-box-text' markdown="1">
-
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-  </div>
-  </div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+- [2024]li cong, **liang junkai**, ding yujia, shen qingni, wu zhonghai, Hierarchical identity-based broadcast inner product encryption based on SM9,  SCIENTIA SINICA Informationis, 2024, ISSN 1674-7267, https://doi.org/10.1360/SSI-2023-0232.
 
 # 🎖 Honors and Awards
 - *2022*  First Prize in 3th Trinity CTF competition in Nanjing University.
@@ -72,7 +41,13 @@ My research interests are in the areas of the confidentiality of blockchain and 
 - *2022.08 - present*, PhD Student, Computer Science, Peking University. 
 - *2018.09 - 2022.06*, Undergraduate, Computer Science, Nanjing University. 
 
-# 💬 Teaching & Service
+# 💬 Open Source Contributions
+
+- [2024]  CVE-2024-28285 Crypto++ Elgamal vulnerability
+- [2024]  CVE-2024-2881 Wolfssl EdDSA vulnerability
+- [2024]  CVE-2024-1545 WolfSSL RSA vulnerability
+- [2023]  CVE-2023-51939 Relic BBS vulnerability
+
 <!-- *CS05084*, System Security (Laboratory Course)--Teaching Assistant(Cooperate with Prof. Yang Xu), 2022 Spring. Reviewer: ICISS 2022, ECAI 2023 -->
 
 <!-- <a href="https://clustrmaps.com/site/1bmtt"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=roOPIYhOSI6clMuqwkzlXBT7BKee-NL2r4v8oS1ini8&cl=ffffff" />-->
