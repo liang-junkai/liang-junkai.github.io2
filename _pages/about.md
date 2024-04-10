@@ -29,9 +29,10 @@ My research interests are in the areas of the confidentiality of blockchain and 
 
 # 📝 Publications 
 
-- [2024]li cong, **liang junkai**, ding yujia, shen qingni, wu zhonghai, Hierarchical identity-based broadcast inner product encryption based on SM9,  SCIENTIA SINICA Informationis, 2024, ISSN 1674-7267, https://doi.org/10.1360/SSI-2023-0232.
+- [2024]  li cong, **liang junkai**, ding yujia, shen qingni, wu zhonghai, [Hierarchical identity-based broadcast inner product encryption based on SM9](http://www.sciengine.com/doi/10.1360/SSI-2023-0232),  SCIENTIA SINICA Informationis, 2024, ISSN 1674-7267, https://doi.org/10.1360/SSI-2023-0232.
 
 # 🎖 Honors and Awards
+
 - *2022*  First Prize in 3th Trinity CTF competition in Nanjing University.
 - *2020*  Nanjing University Top-notch Program Scholarship.
 - *2019, 2020, 2021*  The People's Scholarship, China.
