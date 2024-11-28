@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "About me - Liang Junkai"
-description              : "I'm a first-year PhD student at Peking University. My research interests are in the areas of the confidentiality of blockchain and cryptography technologies."
+description              : "I'm a third-year PhD student at Peking University. My research interests are in the areas of the fault injection attack, cryptographic implementation analysis and zero knowledge."
 repository               : "liang-junkai/liang-junkai.github.io"
 google_scholar_stats_use_cdn : false
 

@@ -16,9 +16,9 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am Junkai Liang, a first-year Ph.D. student at Peking University advised by Prof. Zhonghai Wu and Prof. Qingni Shen. Previously, I got my bachelor degree in Nanjing University in 2022, during which I worked closely with Prof. Yuan Zhang (2020-2022).
+I am Junkai Liang, a third-year Ph.D. student at Peking University advised by Prof. Zhonghai Wu and Prof. Qingni Shen. Previously, I got my bachelor degree in Nanjing University in 2022, during which I worked closely with Prof. Yuan Zhang (2020-2022).
 
-My research interests are in the areas of the confidentiality of blockchain and cryptography technologies.
+My research interests are in the areas of the fault injection attack, cryptographic implementation analysis and zero knowledge.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=rYAO48wAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user='><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -44,6 +44,7 @@ My research interests are in the areas of the confidentiality of blockchain and 
 
 # 💬 Open Source Contributions
 
+- [2024]  CVE-2024-31510 Liboqs ML-DSA vulnerability
 - [2024]  CVE-2024-28285 Crypto++ Elgamal vulnerability
 - [2024]  CVE-2024-2881 Wolfssl EdDSA vulnerability
 - [2024]  CVE-2024-1545 WolfSSL RSA vulnerability
