@@ -24,8 +24,9 @@ My research interests are in the areas of the fault injection attack, cryptograp
 
 
 # 🔥 News
-- <!-- *2022.11*: &nbsp;🎉🎉 Runner-up（2/3304）in ECS CloudBuild Developer Competition Track 2: Innovative  Application Design and Practice Based on Encryption Computing. -->
+<!-- *2022.11*: &nbsp;🎉🎉 Runner-up（2/3304）in ECS CloudBuild Developer Competition Track 2: Innovative  Application Design and Practice Based on Encryption Computing. -->
 <!-- - *2022.09*: &nbsp;🎉🎉 .  -->
+
 - *2025.1*: &nbsp; 🎉🎉 Our paper *"Achilles: A Formal Framework of Leaking Secrets from Signature Schemes via Rowhammer" (Junkai Liang, Zhi Zhang, Xin Zhang, Qingni Shen, Yansong Gao, Xingliang Yuan,  Haiyang Xue, Pengfei Wu, Zhonghai Wu)* was accepted in USENIX security 25 ! 
 - *2025.1*: &nbsp; 🎉🎉 Our paper *"SoK: Understanding zk-SNARKs: The Gap Between Research and Practice" (Junkai Liang, Daqi Hu, Pengfei Wu, Yunbo Yang, Qingni Shen, Zhonghai Wu)* was accepted in USENIX security 25 ! 
 
