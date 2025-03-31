@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am Junkai Liang, a third-year Ph.D. student at Peking University advised by Prof. Zhonghai Wu and Prof. Qingni Shen. Previously, I got my bachelor degree in Nanjing University in 2022, during which I worked closely with Prof. Yuan Zhang (2020-2022).
+I am Junkai Liang, a third-year Ph.D. student at Peking University advised by Prof. Zhi Zhang, Prof. Zhonghai Wu and Prof. Qingni Shen. Previously, I got my bachelor degree in Nanjing University in 2022, during which I worked closely with Prof. Yuan Zhang (2020-2022).
 
 My research interests are in the areas of the fault injection attack, cryptographic implementation analysis and zero knowledge.
 
