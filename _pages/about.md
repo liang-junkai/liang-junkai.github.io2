@@ -24,14 +24,13 @@ My research interests are in the areas of the fault injection attack, cryptograp
 
 
 # 🔥 News
-<!-- *2022.11*: &nbsp;🎉🎉 Runner-up（2/3304）in ECS CloudBuild Developer Competition Track 2: Innovative  Application Design and Practice Based on Encryption Computing. -->
-<!-- - *2022.09*: &nbsp;🎉🎉 .  -->
 
+- *2025.3*: &nbsp; 🎉🎉 Our paper *"ZK-Hammer: Leaking Secrets from Zero-Knowledge Proofs via Rowhammer" (***<u>Junkai Liang</u>**, Xin Zhang, Daqi Hu, Qingni Shen, Yuejian Fang, Zhonghai Wu) was accepted in **Dac 25**! 
 - *2025.1*: &nbsp; 🎉🎉 Our paper *"Achilles: A Formal Framework of Leaking Secrets from Signature Schemes via Rowhammer" (***<u>Junkai Liang</u>**, Zhi Zhang, Xin Zhang, Qingni Shen, Yansong Gao, Xingliang Yuan,  Haiyang Xue, Pengfei Wu, Zhonghai Wu) was accepted in **USENIX security 25**! 
 - *2025.1*: &nbsp; 🎉🎉 Our paper *"SoK: Understanding zk-SNARKs: The Gap Between Research and Practice" (***<u>Junkai Liang</u>**, Daqi Hu, Pengfei Wu, Yunbo Yang, Qingni Shen, Zhonghai Wu) was accepted in **USENIX security 25**! 
 
 # 📝 Publications 
-
+- [SEC 2025]  **Achilles: A Formal Framework of Leaking Secrets from Signature Schemes via Rowhammer** <ins>Junkai Liang</ins>, Zhi Zhang, Xin Zhang (co-first author), Qingni Shen, Yansong Gao, Xingliang Yuan, Haiyang Xue, Pengfei Wu, Zhonghai Wu
 - [2024]  li cong, **liang junkai**, ding yujia, shen qingni, wu zhonghai, [Hierarchical identity-based broadcast inner product encryption based on SM9](http://www.sciengine.com/doi/10.1360/SSI-2023-0232),  SCIENTIA SINICA Informationis, 2024, ISSN 1674-7267, https://doi.org/10.1360/SSI-2023-0232.
 
 # 🎖 Honors and Awards
@@ -69,4 +68,5 @@ My research interests are in the areas of the fault injection attack, cryptograp
 <a href="https://www.hitwebcounter.com" target="_blank">
  <p style="text-align: center;">
 <img src="https://hitwebcounter.com/counter/counter.php?page=7945629&style=0025&nbdigits=5&type=page&initCount=0" title="Free Counter" Alt="web counter"   border="0" />                             
+
 
